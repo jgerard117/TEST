@@ -1,1 +1,1 @@
-A simple test of the main branch
+A simple test for the Corilois server
